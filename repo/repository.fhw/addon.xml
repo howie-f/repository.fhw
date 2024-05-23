@@ -6,6 +6,11 @@
             <checksum>https://raw.githubusercontent.com/howie-f/repository.fhw/master/repo/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/howie-f/repository.fhw/master/repo/zips/</datadir>
         </dir>
+        <dir minversion="20.9.1">
+            <info compressed="false">https://raw.githubusercontent.com/howie-f/repository.fhw/master/omega/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/howie-f/repository.fhw/master/omega/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/howie-f/repository.fhw/master/omega/zips/</datadir>
+        </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>just some skins and their dependencies maybe</summary>
