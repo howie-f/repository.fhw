@@ -1,0 +1,4 @@
+[submodule "omega/skin.xperience1080"]
+	path = omega/skin.xperience1080
+	url = github-howie:howie-f/skin.xperience1080
+	branch = Omega
